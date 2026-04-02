@@ -13,9 +13,6 @@ The dataset includes multi-year financial and customer-level records (2022–202
 -Payment status (Paid / Pending / Overdue)\
 -Revenue-at-risk metrics
 
-# View Dataset:
-<a href="https://drive.google.com/file/d/1Fk3OenQpTDv60InYk6wiWy__8rMShKIk/view?usp=sharing">Click Here to View Dataset</a>
-
 # Business Questions & KPIs
 
 This dashboard answers the following key business questions:
@@ -89,7 +86,7 @@ This dashboard answers the following key business questions:
 -Regional overdue concentration analysis
 
 # View Full Dashboard File:
-<a href="https://1drv.ms/x/c/26cf3d7ee5feb13d/IQCZXUFbTBPlRq9TDoPZqq_FAWytpUnh9l_YkimZ-7uVxdc?e=pSuvE5">Click Here to View Dashboard</a>
+<a href="https://1drv.ms/x/c/26cf3d7ee5feb13d/IQDPlKrQ4gbFRai280uMB_j6ASQRtrMfXIRkg6g3MgO-z_w?e=2sJbyv">Click Here to View Dashboard</a>
 
 
 # Dashboard Images:
